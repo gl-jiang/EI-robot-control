@@ -1,0 +1,2 @@
+arm_control:kdl_parser-noetic-devel/kdl_parser:kdl_parser-noetic-devel/kdl_parser_py
+-DCATKIN_DEVEL_PREFIX=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/devel -DCMAKE_INSTALL_PREFIX=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/install -G Unix Makefiles

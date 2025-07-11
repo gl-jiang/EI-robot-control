@@ -1,0 +1,8 @@
+prefix=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/master1/install
+
+Name: kdl_parser_py
+Description: Description of kdl_parser_py
+Version: 1.14.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdfdom_py
