@@ -1,2 +1,0 @@
-set(arm_control_MESSAGE_FILES "/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/src/arm_control/msg/PosCmd.msg;/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/src/arm_control/msg/JointControl.msg;/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/src/arm_control/msg/JointInformation.msg;/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/follow1/src/arm_control/msg/ChassisCtrl.msg")
-set(arm_control_SERVICE_FILES "")

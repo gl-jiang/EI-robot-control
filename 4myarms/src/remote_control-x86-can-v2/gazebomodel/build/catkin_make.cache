@@ -1,2 +1,0 @@
-arm_modle
--DCATKIN_DEVEL_PREFIX=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/gazebomodel/devel -DCMAKE_INSTALL_PREFIX=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/gazebomodel/install -G Unix Makefiles

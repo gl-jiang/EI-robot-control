@@ -1,8 +1,0 @@
-prefix=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/master1/devel
-
-Name: kdl_parser
-Description: Description of kdl_parser
-Version: 1.14.2
-Cflags: -I/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/master1/src/kdl_parser-noetic-devel/kdl_parser/include -I/usr/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3 -I/usr/include
-Libs: -L${prefix}/lib -lkdl_parser -lorocos-kdl /usr/lib/x86_64-linux-gnu/libtinyxml.so /usr/lib/x86_64-linux-gnu/libtinyxml2.so
-Requires: rosconsole urdf

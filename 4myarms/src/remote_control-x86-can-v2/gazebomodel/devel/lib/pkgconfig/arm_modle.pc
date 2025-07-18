@@ -1,8 +1,0 @@
-prefix=/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/gazebomodel/devel
-
-Name: arm_modle
-Description: Description of arm_modle
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
