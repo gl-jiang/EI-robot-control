@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/master2/src/kdl_parser-noetic-devel/kdl_parser/src/check_kdl_parser.cpp
+iostream
+-
+string
+-
+kdl_parser/kdl_parser.hpp
+/home/jgl20/work/workssrc/4myarms/src/remote_control-x86-can-v2/master2/src/kdl_parser-noetic-devel/kdl_parser/src/kdl_parser/kdl_parser.hpp
+kdl/chainfksolverpos_recursive.hpp
+-
+kdl/frames_io.hpp
+-
+urdf_model/model.h
+-
+urdf_parser/urdf_parser.h
+-
+
+/opt/ros/noetic/include/kdl_parser/kdl_parser.hpp
+kdl/tree.hpp
+-
+string
+-
+urdf_model/model.h
+-
+tinyxml2.h
+-
+tinyxml.h
+-
+kdl_parser/visibility_control.hpp
+/opt/ros/noetic/include/kdl_parser/kdl_parser/visibility_control.hpp
+
+/opt/ros/noetic/include/kdl_parser/visibility_control.hpp
+
