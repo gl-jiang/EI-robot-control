@@ -141,10 +141,6 @@ etc.)
 
 **1、Launch the program actiongui.py on the robot side.**
 
-The interface is described as follows:
-
-![9439ab474eae8b1badeaece6c46f181](media/image1.png){width="5.4118055555555555in"
-height="3.75in"}
 
 After entering the above interface, the interface description is as
 follows:
