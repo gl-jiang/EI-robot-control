@@ -1,13 +1,13 @@
- I. Folder Description
-remote_control-x86-can-v2 
+ I. Folder Description	
+remote_control-x86-can-v2 	
   This folder contains the low-level driver code for the robot, including the drivers and control logic for two master arms and two follower arms. The system is modified from the cobo_magic platform and is divided into two parts: the **robot side** and the **teleoperation side**, although both share the same codebase.
-Mechanical 
+Mechanical 	
   This folder contains the mechanical drawings of the robot and the experimental platform, provided for reference.
-script  
+script  	
   This folder contains the main script programs for the project. See the following sections for detailed descriptions.
-LLM_agent 
+LLM_agent 	
   This folder contains the LLM (Large Language Model) agent scripts used for data analysis.
-Bag
+Bag	
 This folder contains the robot's trajectories for running the demo of our experiment, including both the original and optimized trajectories. These can be directly called by the main program in the script to execute the motions on the robot.
 II. System requirements
 The system's hardware consists of two parts: The robot and teleoperation system, and the  experimental workstation. 
@@ -54,8 +54,6 @@ IV. Demo and Instruction for use
 (B) Teaching (Operation)
 1、Launch the program actiongui.py on the robot side. 
 The interface is described as follows:
-
-
 After entering the above interface, the interface description is as follows:
 The "Open Can" button in the top-left corner, when clicked, will execute the following procedure:
 ——————————————————————————————————————
